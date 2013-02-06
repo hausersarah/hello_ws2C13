@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:r4ecore="http://org.eclipse.mylyn.reviews.r4e.core.model/">
+  <r4ecore:R4EItem xmi:id="_84yK0XBDEeKl5uR_ri5DPg" addedById="hausersarah">
+    <assignedTo>lermont</assignedTo>
+    <id xmi:id="_84yK0nBDEeKl5uR_ri5DPg" sequenceID="1" userID="hausersarah"/>
+    <addedBy href="hausersarah_comments.xrer#_3OhWsXBDEeKl5uR_ri5DPg"/>
+    <review href="Informal_Review_review.xrer#_3OgIkHBDEeKl5uR_ri5DPg"/>
+    <fileContextList href="#_85vNEHBDEeKl5uR_ri5DPg"/>
+    <ProjectURIs>platform:/resource/Hello</ProjectURIs>
+  </r4ecore:R4EItem>
+  <r4ecore:R4EFileContext xmi:id="_85vNEHBDEeKl5uR_ri5DPg">
+    <assignedTo>lermont</assignedTo>
+    <id xmi:id="_85vNEXBDEeKl5uR_ri5DPg" sequenceID="2" userID="hausersarah"/>
+    <deltas href="#_8516wXBDEeKl5uR_ri5DPg"/>
+    <base href="#_85wbMHBDEeKl5uR_ri5DPg"/>
+    <target href="#_85xpUHBDEeKl5uR_ri5DPg"/>
+  </r4ecore:R4EFileContext>
+  <r4ecore:R4EFileVersion xmi:id="_85wbMHBDEeKl5uR_ri5DPg" platformURI="platform:/resource/Hello/src/HelloWorld.java" versionID="8d26abdce7153535b19bf55ce0878f2d89f9c3b6" repositoryPath="Hello/src/HelloWorld.java" name="HelloWorld.java" localVersionID="8d26abdce7153535b19bf55ce0878f2d89f9c3b6"/>
+  <r4ecore:R4EFileVersion xmi:id="_85xpUHBDEeKl5uR_ri5DPg" platformURI="platform:/resource/Hello/src/HelloWorld.java" versionID="8d26abdce7153535b19bf55ce0878f2d89f9c3b6" repositoryPath="Hello/src/HelloWorld.java" name="HelloWorld.java" localVersionID="8d26abdce7153535b19bf55ce0878f2d89f9c3b6"/>
+  <r4ecore:R4EDelta xmi:id="_8516wXBDEeKl5uR_ri5DPg">
+    <assignedTo>lermont</assignedTo>
+    <id xmi:id="_8516wnBDEeKl5uR_ri5DPg" sequenceID="3" userID="hausersarah"/>
+    <target xsi:type="r4ecore:R4ETextContent" href="#_853v8HBDEeKl5uR_ri5DPg"/>
+  </r4ecore:R4EDelta>
+  <r4ecore:R4ETextContent xmi:id="_853v8HBDEeKl5uR_ri5DPg" info="HelloWorld.java">
+    <location href="#_855lIHBDEeKl5uR_ri5DPg"/>
+  </r4ecore:R4ETextContent>
+  <r4ecore:R4ETextPosition xmi:id="_855lIHBDEeKl5uR_ri5DPg" length="301" startLine="1" endLine="15"/>
+</xmi:XMI>

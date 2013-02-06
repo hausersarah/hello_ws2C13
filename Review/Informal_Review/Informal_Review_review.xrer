@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r4ecore:R4EReview xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:r4ecore="http://org.eclipse.mylyn.reviews.r4e.core.model/" xmi:id="_3OgIkHBDEeKl5uR_ri5DPg" fragmentVersion="0.12.0" name="Informal Review" project="" entryCriteria="" extraNotes="Informal Review" objectives="" referenceMaterial="" startDate="2013-02-06T10:59:14.660+0100" type="R4E_REVIEW_TYPE_INFORMAL">
+  <state xsi:type="r4ecore:R4EReviewState" xmi:id="_3POhUHBDEeKl5uR_ri5DPg"/>
+  <decision xmi:id="_3RcH0HBDEeKl5uR_ri5DPg" value="R4E_REVIEW_DECISION_ACCEPTED"/>
+  <createdBy href="hausersarah_comments.xrer#_3OhWsXBDEeKl5uR_ri5DPg"/>
+</r4ecore:R4EReview>

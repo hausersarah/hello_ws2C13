@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:r4ecore="http://org.eclipse.mylyn.reviews.r4e.core.model/">
+  <r4ecore:R4EParticipant xmi:id="_3OhWsXBDEeKl5uR_ri5DPg" id="hausersarah" email="sarah.hauser.sh@gmail.com" sequenceIDCounter="4" reviewCreatedByMe="true">
+    <addedComments href="#_If5-8HBEEeKl5uR_ri5DPg"/>
+    <addedItems href="hausersarah_items.xrer#_84yK0XBDEeKl5uR_ri5DPg"/>
+    <reviewInstance href="Informal_Review_review.xrer#_3OgIkHBDEeKl5uR_ri5DPg"/>
+    <roles>R4E_ROLE_ORGANIZER</roles>
+    <roles>R4E_ROLE_LEAD</roles>
+  </r4ecore:R4EParticipant>
+  <r4ecore:R4EAnomaly xmi:id="_If5-8HBEEeKl5uR_ri5DPg" user="_3OhWsXBDEeKl5uR_ri5DPg" description="test anomaly" title="test anomaly" createdOn="2013-02-06T11:01:10.495+0100" state="R4E_ANOMALY_STATE_ASSIGNED">
+    <location xsi:type="r4ecore:R4ETextContent" href="#_IgNg8HBEEeKl5uR_ri5DPg"/>
+    <assignedTo></assignedTo>
+    <id xmi:id="_If5-8XBEEeKl5uR_ri5DPg" sequenceID="4" userID="hausersarah"/>
+  </r4ecore:R4EAnomaly>
+  <r4ecore:R4ETextContent xmi:id="_IgNg8HBEEeKl5uR_ri5DPg">
+    <location href="#_IgP9MHBEEeKl5uR_ri5DPg"/>
+  </r4ecore:R4ETextContent>
+  <r4ecore:R4EAnomalyTextPosition xmi:id="_IgP9MHBEEeKl5uR_ri5DPg" startPosition="220" length="35" startLine="11" endLine="11">
+    <file href="#_IgQkQHBEEeKl5uR_ri5DPg"/>
+  </r4ecore:R4EAnomalyTextPosition>
+  <r4ecore:R4EFileVersion xmi:id="_IgQkQHBEEeKl5uR_ri5DPg" platformURI="platform:/resource/Hello/src/HelloWorld.java" versionID="8d26abdce7153535b19bf55ce0878f2d89f9c3b6" repositoryPath="Hello/src/HelloWorld.java" name="HelloWorld.java" localVersionID="8d26abdce7153535b19bf55ce0878f2d89f9c3b6"/>
+</xmi:XMI>

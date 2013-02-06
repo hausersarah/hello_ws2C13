@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r4ecore:R4EUserReviews xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:r4ecore="http://org.eclipse.mylyn.reviews.r4e.core.model/" xmi:id="_7VvDsnBDEeKl5uR_ri5DPg" name="lermont">
+  <invitedToMap xmi:id="_7VvDtHBDEeKl5uR_ri5DPg" key="Informal Review">
+    <value href="Informal_Review/Informal_Review_review.xrer#_3OgIkHBDEeKl5uR_ri5DPg"/>
+  </invitedToMap>
+  <group href="Informal_Review_Group_group_root.xrer#_zRNJYHA_EeKl5uR_ri5DPg"/>
+</r4ecore:R4EUserReviews>
